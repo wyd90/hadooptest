@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hadoop-4.iml" filepath="$PROJECT_DIR$/hadoop-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfstest/hdfstest.iml" filepath="$PROJECT_DIR$/hdfstest/hdfstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalatest/scalatest.iml" filepath="$PROJECT_DIR$/scalatest/scalatest.iml" />
+    </modules>
+  </component>
+</project>
